@@ -24,7 +24,7 @@
 
 [<img align="left" alt="WebStorm" width="34px" height="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WebStorm_Icon.png/600px-WebStorm_Icon.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="34px" height="34px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/80px-HTML5_logo_and_wordmark.svg.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="34px" height="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/57px-CSS3_logo_and_wordmark.svg.png" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="24px" height="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/57px-CSS3_logo_and_wordmark.svg.png" />][webdevplaylist]
 [<img align="left" alt="SCSS" width="34px" height="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/107px-Sass_Logo_Color.svg.png" />][webdevplaylist]
 [<img align="left" alt="JavaScript" width="34px" height="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="34px" height="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
